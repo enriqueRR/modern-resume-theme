@@ -1,10 +1,96 @@
-# Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: HSBC
+  link: https://www.HSBC.com.mx
+  job_title: Developer Engineer 
+  dates: November 2018 - present
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+    Grupo Financiero HSBC is one of the main financial and banking groups in Mexico, with 948 branches, 5,561 ATMs and approximately 15,800 employees.
+  description: >
+    Activities: Develop changes for online banking modules, I followed up on NFRs required for IT Service Acceptance (ITSA) of various projects in JIRA,
+    related to Link & launch Evergreening. Generation of CRs for different production support activities, Project Task Tracking in JIRA according to Scrum methodology, 
+    project documentation in CONFLUENCE according to the bank's own standards and procedures. Also make changes to the documentation for new requirements.
+
+- layout: left
+  company: Seguritech
+  link: https://seguritech.com
+  job_title: Project Manager
+  dates: January 2017 - November 2018
+  quote: >
+  description: >
+     Activities: Follow up on various projects focused on Public Safety in different States of the Mexican Republic (Sonora, Hidalgo, Guanajuato).
+     
+     One of the achievements at this time was to deliver the mobile application 9 1 1 (android, IOS) for the state of León Gto. This application had several developments to which it was integrated. Independent Chat, Cad with Chat.
+     
+     Control the activities of the projects in JIRA of 20 people who were directly or indirectly in charge of me.
+     
+     Lead the mobile application development team.
+     
+     I coordinated tests to be able to deliver the development with the app client 9 1 1.
+     
+     Hold Meetings (dailys, Sprint Review, Sprint Retrospective), to see the daily progress according to the SCRUM methodology with the QA, DevOps Database, Back development, Front development and development teams in the different states where they had to deliver projects.
+ 
+
+- layout: left
+  company: HSBC
+  link: https://www.hsbc.com.mx
+  jobs_title: Desarrollador Java SR
+  dates: February 2016 - December 2017
+  quote: >
+  description: >
+    Activities: I am assigned to the HSBC Insurance Development Department, Developed using the DevOps, Agile Methodologies,
+    where I must read the assigned JIRA stories, and interact with the assigned Business staff to interact in this Agile Development process.
+    Changes requested in different Java EE applications (using Maven, Spring, RTC, json Angular, bootStrap), I also perform queries based on 
+    oracle and informix on the back end. Support to the Business area with changes to the generators of the policies and endorsements. 
+    As part of the global change of the company. We are optimizing processes. And for migrations we use Jenkins, git hub, smart bear. 
+    The migrations are planned for each sprint end, so I also carry out activities to manage signed off for RCs. Scheduled.  
+
+
+- layout: left
+  company: Tecnologías EOS 
+  link: https://tec-eos.com/
+  jobs_title: Desarrollador Java Sr.
+  dates: 09/2014 11/2014
+  quote: >
+  description: >
+    Activities: Modification to Java code that obtains information from external website, and optimization of a billing module for the energy market CFE.
+    This project was in J2SE development, consulting data from Oracle 10, making integration with APEX application.
+
+
+
+- layout: left
+  company: Allianz 
+  link: https://www.allianz.com.mx/
+  jobs_title: Java SR Analyst.   
+  dates:  01/2012 - 01/2014
+  quote: >
+  description: >  
+    Activities: Web application. Support of insurance quotes (Service Desk),
+    created in java (with Spring, Struts, Hibernate), performing queries and updates in Oracle Database.
+
+
+
+- layout: left
+  company: HSBC
+  link: https://www.hsbc.com.mx
+  jobs_title: S.R.  Analyst Systems computation.   
+  dates:  03/2011 - 12/2011  
+  quote: >
+    Grupo Financiero HSBC is one of the main financial and banking groups in Mexico, with 948 branches, 5,561 ATMs and approximately 15,800 employees.
+ 
+  description: >
+    Activities: such as performance testing with JMeter and correction of faults WEB application in J2EE, Oracle query execution,
+    Running Unix Shells , tests Acsel / x with evidence in Quality Center, user support in “Techno-parque”,
+    review and correction of technical design (UML, use cases, sequence diagrams).
+
+
+- layout: left
+  company: HP
+  link: https://www8.hp.com/
+  jobs_title: Information Analyst   
+  dates:  02/2010 - 12/2010
+  quote: >
+  description: >  
+    Activities: in MTA Technological Modernization of Customs for the SAT project performing activities such as
+    J2EE Development with Eclipse for bank module using SOA, Spring Hibernate.
+    Amendments to use cases, UML diagrams in Together tool.
+    Resolution of doubts to other departments as evidence and other modules.

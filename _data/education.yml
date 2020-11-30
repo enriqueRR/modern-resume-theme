@@ -1,9 +1,70 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Universidad Autónoma del Estado de México  Facultad de Ingeniería 
+  dates: 2003 - 2008
+  qualification: Computer Engineer
+  link: http://fingenieria.uaemex.mx/
   quote: >
-    Short institution or course description (optional)
+   This institution trains professionals, academics and researchers, highly competitive at higher levels and
+   postgraduate in different areas of Engineering, with the ability to project, design, analyze, install,
+   construct, program, control, operate and maintain systems of various natures in the production of goods
+   and services necessary for the development of society in a safe, efficient and profitable manner,
+   optimally using cutting-edge human, material and technological resources within a framework of
+   conservation of the environment, extending its resources with humanism, creativity, responsibility, 
+   professional ethics and transparency in society and pursuing continuous improvement of academic and administrative staff, teaching methods, and study programs of its infrastructure.
+ 
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    The computer engineering career trains Engineers capable of
+    Manage and develop automated systems and with the use of programming languages; 
+    Similarly, it focuses on the analysis, design and use of hardware and software 
+    to achieve the implementation of the most advanced industrial, telematic and scientific applications.
+
+- layout: left
+  name: Oracle Weblogic Server 12c  
+
+  dates: 16/01/2016 - 20/02/2016
+  qualification: Computer Engineer
+  link: http://fingenieria.uaemex.mx/
+  quote: >
+    Official Course of ORACLE.
+  description: | # 
+   Administration–II
+
+- layout: left
+  name: Diplomado en Servidores de Web y Aplicaciones Enterprise “Oracle WebLogic Server 12c.
+  dates: 29/11/2014 - 17/01/2015
+  qualification: Academic diploma
+  link: http://fingenieria.uaemex.mx/
+  quote: >
+    Official Course of ORACLE.
+  description: | # 
+   Administración –I .
+   
+ 
+- layout: left
+  name: Diplomado Desarrollo de Aplicaciones Enterprise
+  dates: 2014
+  qualification: Academic diploma
+  link: http://fingenieria.uaemex.mx/
+  quote: >
+    Official Course of ORACLE.
+  description: | #
+    Módulo I JAVA SE7
+    Modulo II  servlests y Jsps.
+
+
+
+- layout: left
+  name: Ruby on Rails conference 
+  dates: 2007
+  qualification: Academic diploma
+  link: http://fingenieria.uaemex.mx/
+  quote: >
+    Proactive personal activity
+  description: | # 
+    I gave the Ruby on Rails conference
+    Talk given in order for students to know the Framework that is changing the way of developing Web applications (Web 2.0) around the world. With a short Introduction to the Ruby language.
+    A description of the architecture of the Framework.
+    And the explanation of how it implements the Model View Controller (MVC) design pattern.
+
+

@@ -4,21 +4,21 @@ repository: enriqueRR/modern-resume-theme
 
 # Personal info
 name: Enrique Reyes Reyes
-title: SR Developer
+title: SR Developer Ruby on Rails
 email: ingenriquerreyes@gmail.com
-phone: Your phone number (optional)
+phone: "7224174134"
 website: https://ingenriqueresume.herokuapp.com/
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username: https://github.com/enriqueRR/
-stackoverflow_username: "00000001"
-linkedin_username: jekyll
-facebook_username: jekyll
-instagram_username: jekyll
+twitter_username: 
+github_username: enriqueRR
+stackoverflow_username: "13868692"
+linkedin_username: enrique-reyes-reyes-1b297819
+facebook_username: 
+instagram_username: 
 
 # Additional icon links
 additional_links:
@@ -38,15 +38,11 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://avatars2.githubusercontent.com/u/100208?s=460&v=4
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
-
+about_content: > # 
+    I participated in business projects mainly related to the banking and insurance business,
+    using different programming languages. I have 12 years of work experience in different types of roles and different information technologies.
+    In this time I have contributed to the delivery of projects within the deadlines and quality standards established in the different companies. 
+    I love Ruby on Rails for its simplicity and speed of development.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -54,14 +50,20 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+# educaton_title: Education #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+more_content: > #
+  I am interested in cryptocurrencies and the development of applications with Ruby for the transaction with cryptocurrencies. 
+  The way I started to get interested. January 2017. A friend asked me if I had bought Bitcoin.
+  I confess that I had no idea what he was talking about. Today I know I should have bought years ago. 
+  Now a Bitcoin costs $ 17000 and it keeps going up.
+  I have the ability to collaborate with work teams as a leader or project manager
+  I consider that I have the ability to solve problems to deliver projects on time.
+  Since 2005 I have been interested in ruby on rails, but because I couldn't find job offers.
+  I was leaving it alone as a good example of a framework and I got into the world of Java.
+  But today with all these changes, this year I have reconsidered going back to the good side of programming :-)
 
 # Footer
 footer_show_references: true
@@ -69,6 +71,14 @@ footer_show_references: true
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+data_dir: _test/_data
+
+include:
+ - _test
+
+exclude:
+  - vendor
 
 sass:
   sass_dir: _sass

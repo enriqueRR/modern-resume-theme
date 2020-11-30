@@ -1,9 +1,34 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: WebUniversity
+  link: https://webuniversity.herokuapp.com/
+  github: enriqueRR/webuniversity
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Project of a course of Ruby on rails (learn  gems) 
+  description: >
+    WebUniversity is an e learning platform  created in AWS an deployed in HEROKU
+    works using the following gems
+    gem "haml-rails"
+    gem 'bootstrap'
+    gem 'jquery-rails'
+    gem 'font-awesome-sass'
+    gem 'simple_form'
+    gem 'faker'
+    gem 'devise'
+    gem 'friendly_id'
+    gem 'exception_notification'
+    gem 'ransack'
+    gem 'public_activity'
+    gem "rolify"
+    gem "pundit"
+    ...
+    many others. 
+- layout: top-middle
+  name: Resume 
+  link: https://ingenriqueresume.herokuapp.com/
+  github: enriqueRR/modern-resume-theme
+  quote: >
+    This is an example of using gems in Ruby, using these other technologies, HTML5 YAML
+  description: >
+    Resume Project is a gem of Ruby created by Brett  that is easy to deploy in AWS
+    https://github.com/sproogen/modern-resume-theme
